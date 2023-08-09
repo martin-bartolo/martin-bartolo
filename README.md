@@ -6,7 +6,7 @@
 </ul>
 
 
-<h3 align="left">Current Side-Project:</h3>
+<h3 align="left">Current Project:</h3>
 <p align="left">
 Working on a new website to sell my beats. Currently building out the front end using React, Remix, SQLite, and Prisma. Will update as I add more tools to the stack.
 <a href="https://github.com/martin-bartolo/yesok-website" target="blank">github repo</a>
